@@ -941,7 +941,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(20 184 166 / var(--tw-bg-opacity));
+  background-color: rgb(255 184 60 / var(--tw-bg-opacity));
 }
 
 .bg-slate-100 {
@@ -1341,7 +1341,7 @@ body {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(20 184 166 / var(--tw-bg-opacity));
+  background-color: rgb(255 184 60 / var(--tw-bg-opacity));
 }
 
 .hover\:text-white:hover {
