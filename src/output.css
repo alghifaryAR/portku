@@ -1409,7 +1409,7 @@ body {
 
 .dark .dark\:bg-dark {
   --tw-bg-opacity: 1;
-  background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+  background-color: rgb(15 23 20 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:bg-slate-800 {
